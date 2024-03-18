@@ -1,0 +1,3 @@
+/Users/ddh/Desktop/Proyecto-Programacion3/cmake-build-debug/CMakeFiles/Proyecto_Programacion3.dir
+/Users/ddh/Desktop/Proyecto-Programacion3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ddh/Desktop/Proyecto-Programacion3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
